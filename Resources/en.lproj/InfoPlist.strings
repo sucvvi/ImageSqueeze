@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "ImageSqueeze";
+"NSHumanReadableCopyright" = "All processing happens on this Mac. Engines: MozJPEG, pngquant, OxiPNG, pngcrush, libwebp, Gifsicle, SVGO.";

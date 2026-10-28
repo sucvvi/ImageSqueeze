@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "ImageSqueeze 图片压缩";
+"NSHumanReadableCopyright" = "所有图片处理均在本机完成。引擎：MozJPEG、pngquant、OxiPNG、pngcrush、libwebp、Gifsicle、SVGO。";

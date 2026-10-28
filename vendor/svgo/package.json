@@ -1,0 +1,1 @@
+{"name":"svgo-bundle","private":true,"version":"1.0.0","dependencies":{"esbuild":"^0.28.2","svgo":"^4.1.0"}}

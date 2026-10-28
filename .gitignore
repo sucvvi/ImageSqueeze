@@ -1,0 +1,11 @@
+# Build output
+.build/
+dist/
+*.xcodeproj/
+.swiftpm/
+
+# SVGO bundle is built from vendor/svgo by scripts/build_app.sh
+vendor/svgo/node_modules/
+vendor/svgo/svgo.js
+
+.DS_Store
